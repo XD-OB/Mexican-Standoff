@@ -1,0 +1,16 @@
+M-x whitespace-cleanup
+C-c C-h
+C-u 12 M-g M-g RET
+C-u 17 M-g M-g
+C-u 19 M-g M-g
+C-w
+<del>
+C-u 15 M-g M-g
+C-y
+C-o
+<top><del><top><del>
+C-u 23 M-g M-g <del><del>
+C-u 29 M-g M-g
+M-<right><space>
+C-u 18 M-g M-g
+M-<right><space>

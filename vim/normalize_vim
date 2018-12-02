@@ -1,0 +1,9 @@
+:/\s\+$//e
+:%s/while(/while (/e
+:%s/break;/break ;/e
+10k
+V2kd
+2kP
+F1
+gg=G
+:wq
